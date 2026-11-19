@@ -1,0 +1,12 @@
+{
+  "github_user": "vishant0815",
+  "prompt_user": "vishant",
+  "initials": "VB",
+  "tagline": "Python Backend Developer · Data Engineer · MSc Big Data @ UEL",
+  "stack": "Python · Django · FastAPI · Kafka · Spark · Hadoop · React · Next.js · AWS",
+  "badges": [
+    {"id": "portfolio", "label": "PORTFOLIO", "value": "vishantbhavsar.com", "color": "#008080", "href": "https://vishantbhavsar.com"},
+    {"id": "linkedin", "label": "LINKEDIN", "value": "in/vishant810", "color": "#0a66c2", "href": "https://www.linkedin.com/in/vishant810"},
+    {"id": "email", "label": "EMAIL", "value": "vishantbhavsar500@gmail.com", "color": "#d1453b", "href": "mailto:vishantbhavsar500@gmail.com"}
+  ]
+}
