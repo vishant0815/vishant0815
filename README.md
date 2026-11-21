@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/contributions.svg" alt="vishant@github ~ $ ./contributions.sh" width="100%">
+</p>
 
-<!--
-**vishant0815/vishant0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/whoami.svg" alt="vishant@github ~ $ whoami" width="100%">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="assets/links.svg" alt="vishant@github ~ $ ./links.sh" width="100%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://vishantbhavsar.com"><img src="assets/badge-portfolio.svg" alt="Portfolio: vishantbhavsar.com" height="28"></a>
+  <a href="https://www.linkedin.com/in/vishant810"><img src="assets/badge-linkedin.svg" alt="LinkedIn: in/vishant810" height="28"></a>
+  <a href="mailto:vishantbhavsar500@gmail.com"><img src="assets/badge-email.svg" alt="Email: vishantbhavsar500@gmail.com" height="28"></a>
+</p>
+
+<!-- The cards in assets/ are rebuilt by .github/workflows/update-cards.yml from live GitHub data. -->

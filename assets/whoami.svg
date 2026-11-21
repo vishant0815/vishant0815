@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="440" viewBox="0 0 860 440" role="img" aria-label="whoami: portrait and contribution stats">
+<title>whoami: portrait and contribution stats</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace}
+.cur{animation:blink 1.1s step-end 1.4s infinite}
+@keyframes blink{50%{opacity:0}}
+.fade{animation:fade .7s ease-out both}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.rise{animation:rise .7s cubic-bezier(.2,.8,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.pop{transform-box:fill-box;transform-origin:50% 50%;animation:pop .5s cubic-bezier(.2,.8,.2,1.3) both}
+@keyframes pop{from{opacity:0;transform:scale(.2)}to{opacity:1;transform:none}}
+.line{animation:line .25s ease-out both}
+@keyframes line{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+.grow{transform-box:fill-box;transform-origin:50% 100%;animation:grow .9s cubic-bezier(.2,.8,.2,1) both}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+</style>
+<rect x="0.5" y="0.5" width="859" height="439" rx="12" fill="#000000" stroke="#262626"/>
+<clipPath id="type"><rect x="478.3" y="18" width="50.4" height="22"><animate attributeName="width" values="0.0;0.0;0.0;0.0;8.4;16.8;25.2;33.6;42.0;50.4" dur="0.55s" calcMode="discrete" fill="freeze"/></rect></clipPath><text x="318.7" y="34" font-size="14" font-weight="700" fill="#39d353" textLength="117.6" lengthAdjust="spacingAndGlyphs">vishant@github</text><text x="444.7" y="34" font-size="14" font-weight="700" fill="#79c0ff" textLength="8.4" lengthAdjust="spacingAndGlyphs">~</text><text x="461.5" y="34" font-size="14" font-weight="700" fill="#8b8b8b" textLength="8.4" lengthAdjust="spacingAndGlyphs">$</text><g clip-path="url(#type)"><text x="478.3" y="34" font-size="14" font-weight="700" fill="#ededed" textLength="50.4" lengthAdjust="spacingAndGlyphs">whoami</text></g><rect class="cur" x="530.7" y="22" width="8" height="15" fill="#39d353"><animate attributeName="x" values="478.3;478.3;478.3;478.3;486.7;495.1;503.5;511.9;520.3;528.7" dur="0.55s" calcMode="discrete" fill="freeze"/></rect>
+<g class="fade" style="animation-delay:.35s">
+<rect x="17" y="58" width="404" height="364" rx="8" fill="#0a0a0a" stroke="#262626"/>
+<path d="M17 84H421" stroke="#262626"/>
+<circle cx="33" cy="71" r="4.5" fill="#ff5f56"/>
+<circle cx="48" cy="71" r="4.5" fill="#ffbd2e"/>
+<circle cx="63" cy="71" r="4.5" fill="#27c93f"/>
+<text x="219.0" y="75" font-size="10" fill="#8b8b8b" text-anchor="middle">~/portrait.txt — cat</text>
+</g>
+<g fill="#d4d4d4" font-size="5.72">
+<text class="line" style="animation-delay:732ms" x="245.67" y="106.09" xml:space="preserve" textLength="43.33" lengthAdjust="spacingAndGlyphs">^,;;,^'    ^,</text>
+<text class="line" style="animation-delay:764ms" x="209.00" y="111.70" xml:space="preserve" textLength="100.00" lengthAdjust="spacingAndGlyphs">':;-;;~=!oxxsvvsxxoiiooooi&gt;~:,</text>
+<text class="line" style="animation-delay:796ms" x="199.00" y="117.31" xml:space="preserve" textLength="123.33" lengthAdjust="spacingAndGlyphs">'+csvXXvvsXZZ##%%####ZZZZZZZZZXXvxi&lt;~</text>
+<text class="line" style="animation-delay:828ms" x="195.67" y="122.91" xml:space="preserve" textLength="130.00" lengthAdjust="spacingAndGlyphs">-cXZZXZZXZZZZ#%%%%%%#################X&gt;</text>
+<text class="line" style="animation-delay:860ms" x="189.00" y="128.52" xml:space="preserve" textLength="140.00" lengthAdjust="spacingAndGlyphs">-!ovXXZZZXZZZZ#%%%%%#######Z##%%%%%%%%%%x^</text>
+<text class="line" style="animation-delay:892ms" x="185.67" y="134.13" xml:space="preserve" textLength="146.67" lengthAdjust="spacingAndGlyphs">^!xsXXZZZ#Z###Z%%%&amp;%#%%%%###%#####%%%####Xi;</text>
+<text class="line" style="animation-delay:924ms" x="185.67" y="139.74" xml:space="preserve" textLength="156.67" lengthAdjust="spacingAndGlyphs">+xXXZ#%%%%%%%Z%&amp;&amp;&amp;&amp;%&amp;&amp;&amp;%%%%%%####%%%%%%#ZZZv+''</text>
+<text class="line" style="animation-delay:956ms" x="182.33" y="145.34" xml:space="preserve" textLength="170.00" lengthAdjust="spacingAndGlyphs">,oZ###%&amp;%&amp;%%&amp;%%&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;%&amp;&amp;&amp;&amp;%%%%%%%%%#####ZXXsso!-</text>
+<text class="line" style="animation-delay:988ms" x="179.00" y="150.95" xml:space="preserve" textLength="180.00" lengthAdjust="spacingAndGlyphs">+sZ#%%%%%&amp;&amp;%%%%%&amp;&amp;&amp;&amp;%%%&amp;&amp;&amp;&amp;&amp;&amp;&amp;%&amp;&amp;&amp;&amp;%&amp;%%%%#########vi&lt;^</text>
+<text class="line" style="animation-delay:1020ms" x="172.33" y="156.56" xml:space="preserve" textLength="186.67" lengthAdjust="spacingAndGlyphs">,!X%%%&amp;&amp;%%%%%%%%%%%%&amp;%%#%%%%%%%%%%&amp;&amp;&amp;&amp;&amp;&amp;%%%%%####%##Xxc-</text>
+<text class="line" style="animation-delay:1052ms" x="169.00" y="162.16" xml:space="preserve" textLength="190.00" lengthAdjust="spacingAndGlyphs">-cZ%&amp;&amp;%&amp;&amp;&amp;%%##################%%%%%%%%%%&amp;%&amp;%%%##%####Zsc~</text>
+<text class="line" style="animation-delay:1084ms" x="165.67" y="167.77" xml:space="preserve" textLength="190.00" lengthAdjust="spacingAndGlyphs">^&gt;x#&amp;%&amp;&amp;%%####ZZXssXXXvvvssxvvsvXvXZ##%&amp;&amp;&amp;&amp;&amp;%&amp;&amp;&amp;%%%%%%x=,</text>
+<text class="line" style="animation-delay:1116ms" x="165.67" y="173.38" xml:space="preserve" textLength="183.33" lengthAdjust="spacingAndGlyphs">:&gt;o#%&amp;&amp;%%Zvc&gt;=+++~+&lt;=+==&lt;&lt;&lt;&gt;!&gt;&lt;&gt;!!iiicoxXZ#%&amp;&amp;&amp;&amp;&amp;%%%&amp;#+</text>
+<text class="line" style="animation-delay:1148ms" x="162.33" y="178.99" xml:space="preserve" textLength="186.67" lengthAdjust="spacingAndGlyphs">:+x%&amp;&amp;&amp;&amp;%x+;,    ^  :,-~---;;+-;-~+=&lt;&lt;&lt;&lt;&lt;&lt;!icsZ%&amp;&amp;&amp;&amp;&amp;&amp;%&lt;</text>
+<text class="line" style="animation-delay:1180ms" x="159.00" y="184.59" xml:space="preserve" textLength="190.00" lengthAdjust="spacingAndGlyphs">:cv#%%&amp;%#c;             ,^''''     ^^:,^^^,:;-+&gt;oZ&amp;%%&amp;&amp;%o</text>
+<text class="line" style="animation-delay:1212ms" x="159.00" y="190.20" xml:space="preserve" textLength="190.00" lengthAdjust="spacingAndGlyphs">~v#%%%&amp;%s~,                                    ^+&gt;v%%%&amp;&amp;x</text>
+<text class="line" style="animation-delay:1244ms" x="159.00" y="195.81" xml:space="preserve" textLength="190.00" lengthAdjust="spacingAndGlyphs">+vZ%%%%Zi-,                                      ~i#%%%%!</text>
+<text class="line" style="animation-delay:1276ms" x="159.00" y="201.41" xml:space="preserve" textLength="190.00" lengthAdjust="spacingAndGlyphs">-X#%%%#v=^                                       :&gt;X%%&amp;#:</text>
+<text class="line" style="animation-delay:1308ms" x="159.00" y="207.02" xml:space="preserve" textLength="190.00" lengthAdjust="spacingAndGlyphs">'s%%%%#s!:                       '               :&gt;Z&amp;&amp;&amp;#,</text>
+<text class="line" style="animation-delay:1340ms" x="162.33" y="212.63" xml:space="preserve" textLength="186.67" lengthAdjust="spacingAndGlyphs">&gt;%&amp;%%Zv&gt;,                                       ~&gt;X&amp;&amp;&amp;#^</text>
+<text class="line" style="animation-delay:1372ms" x="162.33" y="218.24" xml:space="preserve" textLength="186.67" lengthAdjust="spacingAndGlyphs">;#%%%#x-                                       :+&gt;o&amp;&amp;&amp;#^</text>
+<text class="line" style="animation-delay:1404ms" x="162.33" y="223.84" xml:space="preserve" textLength="186.67" lengthAdjust="spacingAndGlyphs">,#%&amp;%Z+^                                      ^:-=&lt;v&amp;&amp;Z^</text>
+<text class="line" style="animation-delay:1436ms" x="162.33" y="229.45" xml:space="preserve" textLength="183.33" lengthAdjust="spacingAndGlyphs">^#%&amp;%c^                                      ,,  :~!&amp;&amp;o</text>
+<text class="line" style="animation-delay:1468ms" x="162.33" y="235.06" xml:space="preserve" textLength="183.33" lengthAdjust="spacingAndGlyphs">'X&amp;%#&lt;          ^,^^       ,^  ^: ;::,~cxsXXvvvi=-~&lt;&amp;%&lt;</text>
+<text class="line" style="animation-delay:1500ms" x="165.67" y="240.66" xml:space="preserve" textLength="180.00" lengthAdjust="spacingAndGlyphs">c%&amp;%i    ^,;++=isvXZZZoccosx&gt;:-!oZZZ#%&amp;&amp;&amp;&amp;&amp;#vvxxo&lt;!&amp;Z+</text>
+<text class="line" style="animation-delay:1532ms" x="165.67" y="246.27" xml:space="preserve" textLength="183.33" lengthAdjust="spacingAndGlyphs">~#&amp;Zc~-;~++&lt;&gt;=&lt;&lt;oXXZ%%&amp;%&amp;&amp;&amp;#x+&lt;x%&amp;&amp;&amp;&amp;%#ZZXXvsssvvXZ%xi^</text>
+<text class="line" style="animation-delay:1564ms" x="159.00" y="251.88" xml:space="preserve" textLength="190.00" lengthAdjust="spacingAndGlyphs">:=&lt;v#!^  ci:,!i-~=&lt;cv##ZXsvZXXs!is#%&amp;&amp;XZ#ZX%%%#Zx&gt;ixXZXx=</text>
+<text class="line" style="animation-delay:1596ms" x="159.00" y="257.49" xml:space="preserve" textLength="190.00" lengthAdjust="spacingAndGlyphs">&lt;o-;&gt;s%i+x   :csXvZ%&amp;&amp;sxXx~i&amp;&amp;%Z#%&amp;&amp;&amp;v#Zs#%%sx%&amp;Zcxvxscc=</text>
+<text class="line" style="animation-delay:1628ms" x="159.00" y="263.09" xml:space="preserve" textLength="190.00" lengthAdjust="spacingAndGlyphs">~o- ;i%xc&lt;    ,&lt;!~~&gt;vZ%#s!+,s&amp;x:^+Z&amp;X&gt;cosXXXXZXoi!cx;x!!^</text>
+<text class="line" style="animation-delay:1660ms" x="162.33" y="268.70" xml:space="preserve" textLength="183.33" lengthAdjust="spacingAndGlyphs">!&gt;  &lt;%xXc       ,~&lt;!!&lt;=~,^,x&amp;-   +&amp;X-;:;-;--;,^^;&lt;v!!o=</text>
+<text class="line" style="animation-delay:1692ms" x="162.33" y="274.31" xml:space="preserve" textLength="183.33" lengthAdjust="spacingAndGlyphs">^&gt;~ =%X!#^                ,#s     X%+^          ,+x&gt;~o^</text>
+<text class="line" style="animation-delay:1724ms" x="165.67" y="279.91" xml:space="preserve" textLength="176.67" lengthAdjust="spacingAndGlyphs">'!+:X#;so                cZ,     ,Xx;          ,=x~!-</text>
+<text class="line" style="animation-delay:1756ms" x="169.00" y="285.52" xml:space="preserve" textLength="170.00" lengthAdjust="spacingAndGlyphs">^i&lt;o#&lt;^sc              c#~       ^ss&gt;;      ^:-=iv&gt;</text>
+<text class="line" style="animation-delay:1788ms" x="172.33" y="291.13" xml:space="preserve" textLength="166.67" lengthAdjust="spacingAndGlyphs">;!&lt;vs  =oc=:      :~ivx;         ,xZo+:'^:-+&lt;cvxs:</text>
+<text class="line" style="animation-delay:1820ms" x="175.67" y="296.74" xml:space="preserve" textLength="163.33" lengthAdjust="spacingAndGlyphs">;!c%~   ^~&lt;!iii!i!=;: ^--,     -oxoXoooxxxxci&lt;cs'</text>
+<text class="line" style="animation-delay:1852ms" x="179.00" y="302.34" xml:space="preserve" textLength="156.67" lengthAdjust="spacingAndGlyphs">&lt;&gt;Zo                ^ovc&gt;~-^-iZ%Xi&lt;=+~+&lt;&lt;cc!&gt;v!</text>
+<text class="line" style="animation-delay:1884ms" x="182.33" y="307.95" xml:space="preserve" textLength="153.33" lengthAdjust="spacingAndGlyphs">-=o;                 '~osX#&amp;&amp;&amp;#c=-~==&lt;&lt;!oiicZ~</text>
+<text class="line" style="animation-delay:1916ms" x="189.00" y="313.56" xml:space="preserve" textLength="146.67" lengthAdjust="spacingAndGlyphs">-!               ^:!o%%%XZ%&amp;&amp;#Xvvvx!iiicoZs^</text>
+<text class="line" style="animation-delay:1948ms" x="192.33" y="319.16" xml:space="preserve" textLength="140.00" lengthAdjust="spacingAndGlyphs">&gt;~ ^       ^&lt;ccoooxcoc&gt;+&gt;xXZ%&amp;&amp;&amp;&amp;%x!!ixX#~</text>
+<text class="line" style="animation-delay:1980ms" x="192.33" y="324.77" xml:space="preserve" textLength="136.67" lengthAdjust="spacingAndGlyphs">^!~,       o%&amp;&amp;%#Xvcooosoi!ixvXZZZc&lt;!cX%c</text>
+<text class="line" style="animation-delay:2012ms" x="195.67" y="330.38" xml:space="preserve" textLength="133.33" lengthAdjust="spacingAndGlyphs">:!=,      =&gt;ii;^^    ^^,:;~+==&lt;!i!!ixZZ~</text>
+<text class="line" style="animation-delay:2044ms" x="199.00" y="335.99" xml:space="preserve" textLength="146.67" lengthAdjust="spacingAndGlyphs">;o&lt;^'     ^       ^-&lt;=&gt;!i!&lt;-~~+==!cXX&gt;&lt;==~~:</text>
+<text class="line" style="animation-delay:2076ms" x="202.33" y="341.59" xml:space="preserve" textLength="203.33" lengthAdjust="spacingAndGlyphs">~s!:             ;&lt;ossxi&gt;+~-:;~&lt;iXXi&lt;-::;~++~+++&lt;&gt;&lt;=++~;,,,,,</text>
+<text class="line" style="animation-delay:2108ms" x="202.33" y="347.20" xml:space="preserve" textLength="206.67" lengthAdjust="spacingAndGlyphs">'!xo-             :+&lt;&lt;==~;,,:-&lt;cvs&gt;-&lt;&lt;:~;:~=:=i;,;;-+&gt;-:-~~-~=</text>
+<text class="line" style="animation-delay:2140ms" x="199.00" y="352.81" xml:space="preserve" textLength="210.00" lengthAdjust="spacingAndGlyphs">::=:&gt;o&gt;;             ^,::,^;--!ssi!~;&lt;&lt;,;-::-:;&lt;~,:;;-~-:,::,,=</text>
+<text class="line" style="animation-delay:2172ms" x="192.33" y="358.41" xml:space="preserve" textLength="216.67" lengthAdjust="spacingAndGlyphs">:=&gt;-^   ;=&gt;=;        '^:-~~++=&gt;cxo&lt;=&lt;;;==:,;;;;;-+~:,,::-+:,,,,,+</text>
+<text class="line" style="animation-delay:2204ms" x="185.67" y="364.02" xml:space="preserve" textLength="223.33" lengthAdjust="spacingAndGlyphs">:~==        ^=ii&lt;&lt;+-==&lt;&gt;!!!iccoooo&gt;=+&gt;;::-=:^,:,::;+-:,::::-;;:,,,~</text>
+<text class="line" style="animation-delay:2236ms" x="179.00" y="369.63" xml:space="preserve" textLength="230.00" lengthAdjust="spacingAndGlyphs">;~:,&lt;,          ^;&gt;cccccccccccccccc!~+&lt;;::;;~;,^^,,::-~:,,::::;::^;~~</text>
+<text class="line" style="animation-delay:2268ms" x="172.33" y="375.24" xml:space="preserve" textLength="236.67" lengthAdjust="spacingAndGlyphs">:-:-^^;+             ;&lt;=&gt;!ii!!iii!!&gt;+-++:,,::;-:,',::;::::,^,::::,:^;~-</text>
+<text class="line" style="animation-delay:2300ms" x="165.67" y="380.84" xml:space="preserve" textLength="243.33" lengthAdjust="spacingAndGlyphs">:;:'';:^^:~,            '^:;~-;;-~~,,^:+~,,,,,^,,,,'^^,,,,::^^,,::,,,^;;;</text>
+<text class="line" style="animation-delay:2332ms" x="152.33" y="386.45" xml:space="preserve" textLength="256.67" lengthAdjust="spacingAndGlyphs">^:,:^^,, ^-:^^^--,            ^'        ^;~:^^^^:^^,,:^ ',,,,^,:,^'^,^^,, ,::</text>
+<text class="line" style="animation-delay:2364ms" x="142.33" y="392.06" xml:space="preserve" textLength="266.67" lengthAdjust="spacingAndGlyphs">^,,,, '^^ '  ^;,''',;-,                   ,;:^^^^^,: ^^^,,' ^,,,,,^^^'^^'^,,,^,:</text>
+<text class="line" style="animation-delay:2396ms" x="125.67" y="397.66" xml:space="preserve" textLength="283.33" lengthAdjust="spacingAndGlyphs">^'^,^^''  '  '     ^^^'   ^::'         ^,,,^'^,,^'''' ',^',,,^''  '^^'^^^  ''^,,'  ,,</text>
+<text class="line" style="animation-delay:2428ms" x="125.67" y="403.27" xml:space="preserve" textLength="283.33" lengthAdjust="spacingAndGlyphs">^  ' ''             '^^'     ^^,,^^,,,,,::,,^^'      ^,^      '   ''    ' ''        ^</text>
+<text class="line" style="animation-delay:2460ms" x="125.67" y="408.88" xml:space="preserve" textLength="283.33" lengthAdjust="spacingAndGlyphs">'                                                                                   '</text>
+</g>
+<rect x="18" y="96" width="402" height="2" fill="#39d353" opacity="0"><animate attributeName="y" values="96;96;410" keyTimes="0;0.281;1" dur="2.49s" fill="freeze"/><animate attributeName="opacity" values="0;0;.7;.7;0" keyTimes="0;0.281;0.301;.97;1" dur="2.49s" fill="freeze"/></rect>
+<g class="rise" style="animation-delay:550ms">
+<rect x="435" y="58" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
+<text x="447" y="77" font-size="10" fill="#8b8b8b">$ current_streak</text>
+<text x="447" y="102" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">1<tspan font-size="11" font-weight="400" fill="#8b8b8b"> day</tspan></text>
+<text x="447" y="117" font-size="9.5" fill="#8b8b8b">Nov 18</text>
+</g>
+<g class="rise" style="animation-delay:660ms">
+<rect x="643" y="58" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
+<text x="655" y="77" font-size="10" fill="#8b8b8b">$ longest_streak</text>
+<text x="655" y="102" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">9<tspan font-size="11" font-weight="400" fill="#8b8b8b"> days</tspan></text>
+<text x="655" y="117" font-size="9.5" fill="#8b8b8b">Oct 21 – Oct 29</text>
+</g>
+<g class="rise" style="animation-delay:770ms">
+<rect x="435" y="134" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
+<text x="447" y="153" font-size="10" fill="#8b8b8b">$ contributions</text>
+<text x="447" y="178" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">155</text>
+<text x="447" y="193" font-size="9.5" fill="#8b8b8b">in the last year</text>
+</g>
+<g class="rise" style="animation-delay:880ms">
+<rect x="643" y="134" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
+<text x="655" y="153" font-size="10" fill="#8b8b8b">$ active_days</text>
+<text x="655" y="178" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">20<tspan font-size="11" font-weight="400" fill="#8b8b8b"> / 369</tspan></text>
+<text x="655" y="193" font-size="9.5" fill="#8b8b8b">5% of the year</text>
+</g>
+<g class="rise" style="animation-delay:990ms">
+<rect x="435" y="210" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
+<text x="447" y="229" font-size="10" fill="#8b8b8b">$ best_day</text>
+<text x="447" y="254" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">22</text>
+<text x="447" y="269" font-size="9.5" fill="#8b8b8b">Oct 29</text>
+</g>
+<g class="rise" style="animation-delay:1100ms">
+<rect x="643" y="210" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
+<text x="655" y="229" font-size="10" fill="#8b8b8b">$ avg / active_day</text>
+<text x="655" y="254" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">7.8</text>
+<text x="655" y="269" font-size="9.5" fill="#8b8b8b">contributions</text>
+</g>
+<g class="rise" style="animation-delay:1.2s">
+<rect x="435" y="286" width="408" height="136" rx="8" fill="#0a0a0a" stroke="#262626"/>
+<text x="447" y="305" font-size="10" fill="#8b8b8b">$ contributions / month</text>
+</g>
+<rect class="grow" style="animation-delay:1400ms" x="452.6" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
+<text class="fade" style="animation-delay:1.3s" x="461.8" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">N</text>
+<rect class="grow" style="animation-delay:1470ms" x="482.2" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
+<text class="fade" style="animation-delay:1.3s" x="491.3" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">D</text>
+<rect class="grow" style="animation-delay:1540ms" x="511.7" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
+<text class="fade" style="animation-delay:1.3s" x="520.8" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">J</text>
+<rect class="grow" style="animation-delay:1610ms" x="541.2" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
+<text class="fade" style="animation-delay:1.3s" x="550.4" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">F</text>
+<rect class="grow" style="animation-delay:1680ms" x="570.8" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
+<text class="fade" style="animation-delay:1.3s" x="579.9" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">M</text>
+<rect class="grow" style="animation-delay:1750ms" x="600.3" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
+<text class="fade" style="animation-delay:1.3s" x="609.5" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">A</text>
+<rect class="grow" style="animation-delay:1820ms" x="629.8" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
+<text class="fade" style="animation-delay:1.3s" x="639.0" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">M</text>
+<rect class="grow" style="animation-delay:1890ms" x="659.4" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
+<text class="fade" style="animation-delay:1.3s" x="668.5" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">J</text>
+<rect class="grow" style="animation-delay:1960ms" x="688.9" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
+<text class="fade" style="animation-delay:1.3s" x="698.1" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">J</text>
+<rect class="grow" style="animation-delay:2030ms" x="718.5" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
+<text class="fade" style="animation-delay:1.3s" x="727.6" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">A</text>
+<rect class="grow" style="animation-delay:2100ms" x="748.0" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
+<text class="fade" style="animation-delay:1.3s" x="757.2" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">S</text>
+<rect class="grow" style="animation-delay:2170ms" x="777.5" y="326.0" width="18.3" height="74.0" rx="2" fill="#39d353" fill-opacity="1"/>
+<text class="fade" style="animation-delay:2610ms" x="786.7" y="321.0" font-size="10" font-weight="700" fill="#39d353" text-anchor="middle">103</text>
+<text class="fade" style="animation-delay:1.3s" x="786.7" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">O</text>
+<rect class="grow" style="animation-delay:2240ms" x="807.1" y="362.6" width="18.3" height="37.4" rx="2" fill="#26a641" fill-opacity="0.85"/>
+<text class="fade" style="animation-delay:1.3s" x="816.2" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">N</text>
+<path class="fade" style="animation-delay:1.3s" d="M447 400.5H831" stroke="#262626"/>
+</svg>
