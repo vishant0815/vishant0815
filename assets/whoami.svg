@@ -86,8 +86,8 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 <g class="rise" style="animation-delay:550ms">
 <rect x="435" y="58" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
 <text x="447" y="77" font-size="10" fill="#8b8b8b">$ current_streak</text>
-<text x="447" y="102" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">1<tspan font-size="11" font-weight="400" fill="#8b8b8b"> day</tspan></text>
-<text x="447" y="117" font-size="9.5" fill="#8b8b8b">Nov 18</text>
+<text x="447" y="102" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">4<tspan font-size="11" font-weight="400" fill="#8b8b8b"> days</tspan></text>
+<text x="447" y="117" font-size="9.5" fill="#8b8b8b">Nov 18 – Nov 21</text>
 </g>
 <g class="rise" style="animation-delay:660ms">
 <rect x="643" y="58" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
@@ -98,25 +98,25 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 <g class="rise" style="animation-delay:770ms">
 <rect x="435" y="134" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
 <text x="447" y="153" font-size="10" fill="#8b8b8b">$ contributions</text>
-<text x="447" y="178" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">155</text>
+<text x="447" y="178" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">230</text>
 <text x="447" y="193" font-size="9.5" fill="#8b8b8b">in the last year</text>
 </g>
 <g class="rise" style="animation-delay:880ms">
 <rect x="643" y="134" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
 <text x="655" y="153" font-size="10" fill="#8b8b8b">$ active_days</text>
-<text x="655" y="178" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">20<tspan font-size="11" font-weight="400" fill="#8b8b8b"> / 369</tspan></text>
-<text x="655" y="193" font-size="9.5" fill="#8b8b8b">5% of the year</text>
+<text x="655" y="178" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">23<tspan font-size="11" font-weight="400" fill="#8b8b8b"> / 371</tspan></text>
+<text x="655" y="193" font-size="9.5" fill="#8b8b8b">6% of the year</text>
 </g>
 <g class="rise" style="animation-delay:990ms">
 <rect x="435" y="210" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
 <text x="447" y="229" font-size="10" fill="#8b8b8b">$ best_day</text>
-<text x="447" y="254" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">22</text>
+<text x="447" y="254" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">34</text>
 <text x="447" y="269" font-size="9.5" fill="#8b8b8b">Oct 29</text>
 </g>
 <g class="rise" style="animation-delay:1100ms">
 <rect x="643" y="210" width="200" height="68" rx="8" fill="#0a0a0a" stroke="#262626"/>
 <text x="655" y="229" font-size="10" fill="#8b8b8b">$ avg / active_day</text>
-<text x="655" y="254" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">7.8</text>
+<text x="655" y="254" font-size="22" font-weight="700" fill="#39d353" xml:space="preserve">10.0</text>
 <text x="655" y="269" font-size="9.5" fill="#8b8b8b">contributions</text>
 </g>
 <g class="rise" style="animation-delay:1.2s">
@@ -146,9 +146,9 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 <rect class="grow" style="animation-delay:2100ms" x="748.0" y="398.0" width="18.3" height="2.0" rx="2" fill="#26a641" fill-opacity="0.35"/>
 <text class="fade" style="animation-delay:1.3s" x="757.2" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">S</text>
 <rect class="grow" style="animation-delay:2170ms" x="777.5" y="326.0" width="18.3" height="74.0" rx="2" fill="#39d353" fill-opacity="1"/>
-<text class="fade" style="animation-delay:2610ms" x="786.7" y="321.0" font-size="10" font-weight="700" fill="#39d353" text-anchor="middle">103</text>
+<text class="fade" style="animation-delay:2610ms" x="786.7" y="321.0" font-size="10" font-weight="700" fill="#39d353" text-anchor="middle">148</text>
 <text class="fade" style="animation-delay:1.3s" x="786.7" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">O</text>
-<rect class="grow" style="animation-delay:2240ms" x="807.1" y="362.6" width="18.3" height="37.4" rx="2" fill="#26a641" fill-opacity="0.85"/>
+<rect class="grow" style="animation-delay:2240ms" x="807.1" y="359.0" width="18.3" height="41.0" rx="2" fill="#26a641" fill-opacity="0.85"/>
 <text class="fade" style="animation-delay:1.3s" x="816.2" y="414" font-size="9" fill="#8b8b8b" text-anchor="middle">N</text>
 <path class="fade" style="animation-delay:1.3s" d="M447 400.5H831" stroke="#262626"/>
 </svg>
