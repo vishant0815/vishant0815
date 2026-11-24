@@ -400,6 +400,7 @@ text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberatio
 <rect class="pop" style="animation-delay:1932ms" x="816" y="168" width="12" height="12" rx="2.5" fill="#0e4429" stroke="#ffffff" stroke-opacity="0"/>
 <rect class="pop" style="animation-delay:1744ms" x="831" y="78" width="12" height="12" rx="2.5" fill="#0e4429" stroke="#ffffff" stroke-opacity="0"/>
 <rect class="pop" style="animation-delay:1779ms" x="831" y="93" width="12" height="12" rx="2.5" fill="#006d32" stroke="#ffffff" stroke-opacity="0"/>
+<rect class="pop" style="animation-delay:1814ms" x="831" y="108" width="12" height="12" rx="2.5" fill="#141414" stroke="#ffffff" stroke-opacity="0.05"/>
 <g class="rise" style="animation-delay:1.6s">
 <text x="51" y="205" font-size="12" fill="#ededed" xml:space="preserve"><tspan font-weight="700">251</tspan><tspan fill="#8b8b8b"> contributions in the last year</tspan></text>
 <text x="703" y="205" font-size="10" fill="#8b8b8b">Less</text>
